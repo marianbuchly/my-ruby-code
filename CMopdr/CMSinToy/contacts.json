@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Woody",
+    "id": "sku 002",
+    "quantity": 250
+  },
+  {
+    "name": "Rex",
+    "id": "sku 003",
+    "quantity": 2
+  },
+  {
+    "name": "Patato head",
+    "id": "sku 004",
+    "quantity": 135
+  },
+  {
+    "name": "Slinky",
+    "id": "sku 005",
+    "quantity": 1
+  },
+  {
+    "name": "1",
+    "phone": null,
+    "email": null
+  }
+]

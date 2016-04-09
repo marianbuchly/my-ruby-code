@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Tacta</title>
+  <link rel="stylesheet" href="<%= url('/app.css') %>" type="text/css"/>
+</head>
+
+<body>
+
+<h1>Tacta Contact Manager</h1>
+<hr/>
+
+<%= yield %>
+
+</body>
+<h2>Search</h2>
+
+<form action="/contacts/search" method="POST">
+  <p>Search <input type="text"></p>
+  <button><a href="/contacts">Search</a></button>
+</form>
+</html>
